@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  activity_type: MyString
+  time: 1
+  distance: 1
+  speed: 1
+  effort: MyString
+  date: 2014-10-30 16:18:58
+  user_id: 1
+
+two:
+  name: MyString
+  description: MyText
+  activity_type: MyString
+  time: 1
+  distance: 1
+  speed: 1
+  effort: MyString
+  date: 2014-10-30 16:18:58
+  user_id: 1
